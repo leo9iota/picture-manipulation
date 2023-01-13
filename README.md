@@ -1,5 +1,5 @@
 ## Picture Manipulation Program
-Picture manipulation program with basic features and no GUI
+Picture manipulation program with basic features
 
 ## 🛠️ Tech Stack
 <div>
